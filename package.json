@@ -13,6 +13,8 @@
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
+    "activationEvents": [
+    ],
     "commands": [
       {
         "command": "put-local-files.helloWorld",
